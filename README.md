@@ -20,4 +20,8 @@ Download Chrome webdriver to enable Selenium to connect with your browser.
 
 - Now extract the downloaded zip file and copy the .exe file to the Python main directory
 
+## INSTALL SELENIUM
+
+- Goto to command prompt and type pip install selenium as simple as that
+
 # THATS IT NOW YOU ARE READY TO GO  
