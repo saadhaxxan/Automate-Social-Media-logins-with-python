@@ -14,3 +14,4 @@ Download Chrome webdriver to enable Selenium to connect with your browser.
 
 - GOTO  http://chromedriver.chromium.org/downloads
 
+![Capture](https://user-images.githubusercontent.com/42111836/61146885-7eedcd00-a4f4-11e9-9a10-fbdb8fa79036.JPG)
