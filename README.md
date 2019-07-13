@@ -2,7 +2,7 @@
 
 ## Objective
 
-This Repo is about powerful web automation library called Selenium and its implementation in python to login automatically into different famous social media sites.Sometimes its worth time taking to login everytime into your social media and remembering credentials. Web automation is one of the most hottest fields now a days used my a large scale of organization to automate their different processes.
+This Repo is about powerful web automation library called Selenium and its implementation in python to login automatically into different famous social media sites.Sometimes its worth time taking to login everytime into your social media and remembering credentials. Web automation is one of the most hottest fields now a days used by a large scale of organization to automate their different processes.
 
 #### Tools Used
 
