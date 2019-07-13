@@ -6,7 +6,7 @@ class YoutubeBot:
     def __init__(self,username,password):
         self.username=username
         self.password=password
-        self.bot=webdriver.Firefox()
+        self.bot=webdriver.Chrome()
         
     def login(self):
         bot=self.bot
