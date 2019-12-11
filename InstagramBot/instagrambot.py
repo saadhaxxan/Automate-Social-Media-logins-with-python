@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
-class Twitter:
+class Instagram:
     def __init__(self,username,password):
         self.username=username
         self.password=password
@@ -22,5 +22,5 @@ class Twitter:
         
         
 
-load=Twitter("Your_Email","Your_password")
+load=Instagram("Your_Email","Your_password")
 load.login()
